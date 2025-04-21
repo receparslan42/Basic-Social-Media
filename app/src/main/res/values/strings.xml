@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Basic Social Media</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="comment">Comment</string>
+    <string name="upload">Upload</string>
+    <string name="select_an_image">Select an image</string>
+    <string name="more">More</string>
+    <string name="close">Close</string>
+    <string name="log_out">Log Out</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="add_post">Add Post</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="password_again">Password Again</string>
+    <string name="save">Save</string>
+    <string name="image">Image</string>
+</resources>

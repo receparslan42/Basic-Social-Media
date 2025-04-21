@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263635295893",
+    "project_id": "basic-social-media-6f639",
+    "storage_bucket": "basic-social-media-6f639.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263635295893:android:36dddb6b079fccff5d859c",
+        "android_client_info": {
+          "package_name": "com.receparslan.basicsocialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3UvXFUIQmgrfNEe_xyjoAsZg8PsxOALs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
